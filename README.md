@@ -1,2 +1,1 @@
-# CCNA Lab Assignments
-Following Jeremy's IT Lab CCNA Course. Completing each lab.
+Completing CCNA lab assignments from Jeremy's IT Lab.
